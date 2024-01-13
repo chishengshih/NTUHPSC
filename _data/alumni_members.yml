@@ -1,7 +1,7 @@
 - name: Tei-Wei Kuo 郭大維
   photo: ktw.jpeg
   duration: In the Allan Lab from 2018 - date
-  info: Director 主任
+  info: Director 主任/嵌入式系統、即時系統、神經元計算、快閃記憶體系統、作業系統、儲存系統
   email: 
   number_educ: 2
   education1: PhD, University of Texas at Austin
@@ -11,7 +11,7 @@
 
 - name: Chi-Sheng Shih 施吉昇
   photo: cshih.jpeg
-  info: Deputy Director 副主任
+  info: Deputy Director 副主任/即時系統、排程理論、資源管理、嵌入式系統
   duration: In the HPSC Center from 2018 - date
   email: 
   number_educ: 3
@@ -32,8 +32,8 @@
 
 - name: Ai-Chun Pang 逄愛君
   photo: acpang.jpeg
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
+  info: 
+  email: 
   duration: In the HPSC Center from 2018 - date
   number_educ: 3
   education1: PhD, National Chiao-Tung University
@@ -43,8 +43,8 @@
 
 - name: Yen 顏嗣鈞
   photo: hcyen.jpeg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
+  info:  自動機理論與正規語言; 圖形繪製與資訊視覺化; 正規驗證/Automata Theory and Formal Languages, Graph Drawing and Information Visualization, Formal Verification
+  email: 
   number_educ: 3
   duration: In the HPSC Center 2018 - 
   education1: Ph.D. University of Texas at Austin (Computer Sciences)
