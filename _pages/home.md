@@ -51,12 +51,12 @@ permalink: /
   </a>
 </div>
 
+為促進高效能計算研究發展、以及提升本校研究計畫取得高效能計算資源，以與世界頂尖研究接軌，進而替國內相關科技應用、產業發展注入新的動能與競爭力，特設校級功能性「高效能與科學計算技術研究中心」。本中心為跨領域功能性整合研究中心，中心之任務為：
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+(一)提升臺大高效能計算的整體研究能量及國際能見度。
+(二)整合臺大高效能計算的研究，爭取政府與產業專案計畫，促成相關領域之產學合作、技術移轉。
+(三)推廣高效能運算，並強化產、學、研界在高效能運算的技術應用能力，提昇各領域的技術層次，建構領先技術。
+(四)培育高效能計算軟體、系統軟體、雲端系統管理、高效能硬體設計等領域之研究人才，並建立學生赴業界實習之管道。
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nstc_logo.png" style="width: 410px">
