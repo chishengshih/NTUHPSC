@@ -8,10 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [researcher](#researcher), [alumni](#alumni), [administrative support](#administrative-support), [visitors](#visitors).
+Jump to [researcher](#researcher), [administrative support](#administrative-support), [visitors](#visitors).
 
 ## Researcher
 {% assign number_printed = 0 %}
@@ -75,7 +72,7 @@ Jump to [researcher](#researcher), [alumni](#alumni), [administrative support](#
 </div>
 {% endif %}
 
-## Visitors, BSc/ MSc students
+<!-- ## Visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -83,23 +80,8 @@ Jump to [researcher](#researcher), [alumni](#alumni), [administrative support](#
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
+</div> -->
 
 </div>
-
 ## Administrative Support
 <a href="mailto:yuyu1206@csie.ntu.edut.w">YuChen Hsu 許瑜珍</a> is helping us (and other groups) with administration.
