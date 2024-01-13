@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "HPSC Center at National Taiwan University - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "HPSC Center at National Taiwan University -- Research"
 sitemap: false
 permalink: /research/
 ---

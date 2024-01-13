@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "HPSC Center at National Taiwan University."
 sitemap: false
 permalink: /allnews.html
 ---

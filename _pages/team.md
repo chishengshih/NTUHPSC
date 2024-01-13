@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "HPSC Center at National Taiwan University - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "HPSC Center at National Taiwan University: Team members"
 sitemap: false
 permalink: /team/
 ---

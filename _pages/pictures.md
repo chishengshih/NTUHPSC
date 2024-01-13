@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "HPSC Center at National Taiwan University - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "HPSC Center at National Taiwan University -- Pictures"
 permalink: /pictures/
 ---
 
