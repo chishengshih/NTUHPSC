@@ -16,14 +16,15 @@ Our goal is to build instruments and develop techniques that enable us to addres
 
 Here are some themes and techniques that we currently work on:
 
-** 全同態加密演算法（Fully Homomorphic Encryption, FHE）之硬體加速器以及系統軟體框架 - 緯創資通 **
+**全同態加密演算法（Fully Homomorphic Encryption, FHE）之硬體加速器以及系統軟體框架 - 緯創資通**
 
 與緯創資通合作，設計全同態加密演算法（Fully Homomorphic Encryption, FHE）之硬體加速器以及系統軟體框架，可在保護資料隱私的同時，同時運用GPU/FPGA提供高效能（100~1000X）的加密計算，快速完成加密推論（Encrypted Inference）。<br>
 資料擁有者可將機密資料以FHE加密後送出，讓服務者在不能得知資料內容的情況下運算，實際解決精準健康、人工智慧應用亟待突破的隱私保護、資料取得問題。<br>
 發表於MobiSec 2023<br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/2023Huang-1.png){: style="width: 80%; float: center; margin: 10px"}
-** 軟體定義車輛架構 - 凌華電腦 ** 
+
+**軟體定義車輛架構 - 凌華電腦** 
 自駕車系統的計算核心從分散式架構朝高效能多核心系統發展，以因應日漸複雜的軟體定義車輛架構。<br>
 此一產學合作案研究與開發軟體定義車輛的高效能計算架構以及敏感性時序網路(Time Sensitive Network, TSN)之核心技術，包含：多容器之效能分析工具，TSN 效能分析以及分散式共識決策。主要的成果包含：<br>
 <ul>
