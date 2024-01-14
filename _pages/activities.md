@@ -13,6 +13,15 @@ permalink: /activities
 Jump to [2024](#2024), [2023](#2023), [2022](#2022).
 ## 2024
 
+### 量子計算教學與研究經驗分享會
+2023/12/22 – 協辦量子計算教學與研究經驗分享會 <br>
+邀請台大資訊、電機、物理系以及中央研究院的教授一起探討如何教授與引導對量子電腦感興趣的學生深入此一領域。本場研討會邀請四位教授來分享他們教學和研究的心得，希望能夠拋磚引玉，帶動相關的討論，為培育量子計算人才盡一份心力。
+本次活動師生共計 人參加。
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/actpic/quantum1.png" width="95%">
+</figure>
+
 ## 2023 
 
 ### Autoware Foundation Taiwan Chapter
