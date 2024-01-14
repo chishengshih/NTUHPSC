@@ -8,13 +8,8 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-台灣大學 高效能與科學運算中心
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
-
-Here are some themes and techniques that we currently work on:
+本中心的任務包含推動高效能與科學運算相關的核心技術與應用研究，目前推動的研究工作主要為以下兩項：
+**推動高效能運算技術研發**與**建立高效能計算之策略合作夥伴**。以下簡要說明各項研究工作的目標與成果。
 
 **全同態加密演算法（Fully Homomorphic Encryption, FHE）之硬體加速器以及系統軟體框架 - 緯創資通**
 
