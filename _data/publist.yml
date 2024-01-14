@@ -1,6 +1,6 @@
 - title: "A Heterogeneous Computing Framework for Accelerating Fully Homomorphic Encryption"
   image: imageaward_edited.png
-  description: 
+  description: This framework encompasses homomorphic evaluations on multiple platforms including CPU, GPU, and FPGA, paired with a tailored task scheduling algorithm. Each platform is equipped with comprehensive FHE functionalities and employs state-of-the-art imple- mentations, allowing for standalone evaluation of FHE applications.
   authors: Shih, Chengjhih and Hung, Shih-Hao and Chen, Chingwen abd Perng, Chiyferng and Kao, Mengchao and Shih, Chi-Sheng and Kuo, Tei-Wei
   link:
     url: https://www.manuscriptlink.com/society/kiisc/conference/mobisec2023
