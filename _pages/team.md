@@ -8,9 +8,9 @@ permalink: /team/
 
 # Group Members
 
-Jump to [researcher](#researcher), [administrative support](#administrative-support), [visitors](#visitors).
+<!-- Jump to [Principal Researchers](#researcher), [administrative support](#administrative-support), [visitors](#visitors). -->
 
-## Researcher
+## Principal Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
