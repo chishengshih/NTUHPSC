@@ -11,7 +11,7 @@ email: cshih@csie.ntu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
   Website of the HPSC at National Taiwan University
 baseurl: "/NTUHPSC"
-url: "https://chishengshih.github.io"
+url: "https://hpsc.ntu.edu.tw"
 
 include:
   - .htaccess
