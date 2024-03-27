@@ -82,6 +82,5 @@ permalink: /team/
 {% endfor %}
 </div> -->
 
-</div>
 ## Administrative Support
 <a href="mailto:yuyu1206@csie.ntu.edut.w">YuChen Hsu 許瑜珍</a> is helping us (and other groups) with administration.
